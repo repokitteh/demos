@@ -1,2 +1,1 @@
-# demos
-Public RepoKitteh demos
+Various docs will point to this repository.
